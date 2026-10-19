@@ -1,34 +1,16 @@
-# HR-ANALYTICS-DASHBOARD-TABLEAU
-📌 Project Overview
-
-An interactive HR Analytics Dashboard built using Tableau to analyze employee demographics, job satisfaction, and attrition trends.
-
-🎯 Objective
-
-Analyze employee demographics and attrition patterns.
-
-Understand job satisfaction across different job roles.
-
-Identify key workforce trends through data visualization.
-
-📈 Dashboard Features
-
-Employee Distribution by Age Group – Analyzes employee demographics.
-
-Job Satisfaction by Job Role – Compares satisfaction levels across job roles.
-
-Employee Attrition by Education Field – Shows attrition across education fields.
-
-Employee Attrition by Department – Highlights department-wise attrition.
-
-Employee Attrition by Gender – Compares attrition by gender.
-
-Key Performance Indicators (KPIs) – Summarizes important HR metrics.
-
-🛠️ Tools & Technologies
-
-Tableau – Dashboard creation and data visualization.
-
-Excel/CSV – Data preparation, if applicable.
-
-GitHub – Project documentation and sharing
+📊 HR Analytics Dashboard | Tableau
+1. Project Overview
+An interactive Tableau dashboard that analyzes employee data, job satisfaction, and attrition trends.
+2. Objective
+- Analyze employee demographics and attrition.
+- Understand job satisfaction across job roles.
+- Identify workforce trends using KPIs.
+3. Dashboard Features
+- Employee distribution by age group.
+- Job satisfaction by job role.
+- Attrition by education field, department, and gender.
+- Key HR performance indicators (KPIs).
+4. Tools & Technologies
+- Tableau – Dashboard creation and visualization.
+- Excel/CSV – Data preparation.
+- GitHub – Project sharing and documentation.
